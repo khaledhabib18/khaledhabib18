@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Khaled Habib
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="90%">
 
 ### 🚀 About Me
 - 💻 Backend Developer (Node.js / TypeScript)
