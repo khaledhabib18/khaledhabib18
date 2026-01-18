@@ -1,48 +1,78 @@
 # 👋 Hi, I'm Khaled Habib
+<table>
+  <tr>
+    <td valign="top" width="60%">
 
-Junior Backend Developer interested in building clean and well-structured backend applications using Node.js, while continuously learning software engineering best practices.
+### 🚀 About Me
+- 💻 Backend Developer (Node.js / TypeScript)
+- 🎓 B.Sc. in Electrical Engineering – **Damietta University**
+- 🥇 **Ranked 1st** in class with **93.5% GPA (Highest Honors)**
+- 👨‍🏫 Teaching Assistant – Electrical Engineering Department
 
----
+    </td>
+    <td valign="top" width="40%">
 
-## 📫 Connect With Me
+### 📫 Connect With Me
 
-* 📧 Email: [khaled.habib18@gmail.com](mailto:khaled.habib18@gmail.com)
-* 💼 LinkedIn: [https://www.linkedin.com/in/khaled-habib-4263901a0/](https://www.linkedin.com/in/khaled-habib-4263901a0/)
-* 🧑‍💻 GitHub: [https://github.com/khaledhabib18](https://github.com/khaledhabib18)
-* 📞 What'sApp: [Contact me](https://wa.me/201551234282)
---
+<p align="left">
+  <a href="mailto:khaled.habib18@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+  <a href="https://www.linkedin.com/in/khaled-habib-4263901a0/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  <a href="https://github.com/khaledhabib18" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+  <a href="https://wa.me/201551234282" target="_blank">
+    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" height="45" />
+  </a>
+</p>
 
-## 🚀 About Me
-
-* 💻 Backend Developer (Node.js / TypeScript)
-* 🎓 B.Sc. in Electrical Engineering – **Damietta University**
-* 🥇 **Ranked 1st** in class with **93.5% GPA (Highest Honors)**
-* 👨‍🏫 Teaching Assistant – Electrical Engineering Department
-
----
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
-### Backend
+<table>
+  <tr>
+    <td valign="top" width="25%">
 
-* **Node.js**, **Express.js**
-* **TypeScript**, JavaScript
-* **RESTful API Design**
-* Authentication & Authorization (JWT)
+### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,ts,js" />
+</p>
 
-### Databases & ORMs
+</td>
+<td valign="top" width="25%">
 
-* **PostgreSQL**, SQLite
-* **Sequelize ORM**, **Prisma ORM**
-* Database modeling, migrations, and optimization
+### 🔐 Authentication
+<p align="left">
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+</p>
 
---
+</td>
+<td valign="top" width="25%">
 
-## 🌍 Languages
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
+</p>
 
-* Arabic (Native)
-* English (Professional)
+</td>
+<td valign="top" width="25%">
 
----
+### 🧩 ORMs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=prisma" />
+  <img src="https://img.shields.io/badge/Sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" />
+</p>
+
+</td>
+</tr>
+</table>
+
+
 
 ⭐ *Feel free to explore my repositories and reach out for collaboration or backend opportunities!*
