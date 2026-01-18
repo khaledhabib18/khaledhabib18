@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Khaled Habib
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="70%">
 
 ### 🚀 About Me
 - 💻 Backend Developer (Node.js / TypeScript)
@@ -10,17 +10,19 @@
 - 👨‍🏫 Teaching Assistant – Electrical Engineering Department
 
     </td>
-    <td valign="top" width="40%">
+    <td valign="top" width="30%">
 
 ### 📫 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:khaled.habib18@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
   <a href="https://www.linkedin.com/in/khaled-habib-4263901a0/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/khaledhabib18" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="45" />
   </a>
