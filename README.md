@@ -12,7 +12,7 @@
     </td>
     <td valign="top" width="30%">
 
-### 📫 Connect With Me
+### 📫 Contact Me
 
 <p align="center">
   <a href="mailto:khaled.habib18@gmail.com">
