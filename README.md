@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Khaled Habib
 <table>
   <tr>
-    <td valign="top" width="70%">
+    <td valign="top" width="60%">
 
 ### 🚀 About Me
 - 💻 Backend Developer (Node.js / TypeScript)
@@ -10,7 +10,7 @@
 - 👨‍🏫 Teaching Assistant – Electrical Engineering Department
 
     </td>
-    <td valign="top" width="30%">
+    <td valign="top" width="40%">
 
 ### 📫 Contact Me
 
