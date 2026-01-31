@@ -75,7 +75,9 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=prisma" />
-  <img src="https://bobcares.com/wp-content/uploads/2024/02/201.png" />
+  
+  <img src="https://typeorm.io/img/typeorm-logo-white.svg" width="100px"/>
+
   <img src="https://img.shields.io/badge/Sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" />
 </p>
 
