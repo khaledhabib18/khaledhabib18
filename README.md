@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-- 💻 Backend Developer (Node.js / TypeScript)
+- 💻 Backend Developer (Nest.js / Node.js)
 - 🎓 B.Sc. in Electrical Engineering – **Damietta University**
 - 🥇 **Ranked 1st** in class with **93.5% GPA (Highest Honors)**
 - 👨‍🏫 Teaching Assistant – Electrical Engineering Department
